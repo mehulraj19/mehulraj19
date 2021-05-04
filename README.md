@@ -17,7 +17,7 @@
 
 ## 🔎 Github 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mehulraj19&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true) 
+![Github Stats]Github Stats](https://github-readme-stats.vercel.app/api?username=mehulraj19&show_icons=true&locale=en) 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mehulraj19&show_icons=true&locale=en&layout=compact)
 
