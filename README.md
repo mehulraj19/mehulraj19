@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Developer and Machine Learning Enthusiast</h3>
 
 - 👨‍🎓 currently doing my Undergraduate course in Computer Science from Vellore Institute of Technology (VIT)
-- 🌱 I’m currently practicing **Data Structure and Algorithms**
+- 🌱 I’m currently polishing **Data Structure and Algorithms**
 - 🌱 I'm currently learning **Android Studio - App Development**  
 - 💬 Ask me about **express, Android App Development and Machine Learning Models**
 -  ⚡ fun Fact **I prefer Chai (Tea) over Coffee**
