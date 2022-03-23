@@ -4,7 +4,7 @@
 
 - 👨‍🎓 currently doing my Undergraduate course in Computer Science from Vellore Institute of Technology (VIT)
 - 🌱 I’m currently polishing **Data Structure and Algorithms**
-- 🌱 I'm currently learning **Android Studio - App Development**  
+- 🌱 I'm currently learning **Android Studio - App Development and XCode - IoS App Development*  
 - 💬 Ask me about **express, Android App Development and Machine Learning Models**
 -  ⚡ fun Fact **I prefer Chai (Tea) over Coffee**
 
