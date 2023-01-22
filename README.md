@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Developer and Machine Learning Enthusiast</h3>
 
 - 👨‍🎓 completed my bachelor's degree in Computer Science from Vellore Institute of Technology (VIT)
+- ⚒️ Working in Barclays Global Service Pvt. Ltd as a software engineer
 - 🌱 I’m currently polishing **Data Structure and Algorithms**
 - 🌱 I'm currently learning **Android Studio - App Development and XCode - IoS App Development**
 - 💬 Ask me about **express, Android App Development and Machine Learning Models**
