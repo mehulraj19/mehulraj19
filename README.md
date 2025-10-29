@@ -5,8 +5,8 @@
 - 👨‍🎓 completed my bachelor's degree in Computer Science from Vellore Institute of Technology (VIT)
 - ⚒️ Working in Barclays Global Service Pvt. Ltd as a software engineer
 - 🌱 I’m currently polishing **Data Structure and Algorithms**
-- 🌱 I'm currently learning **Android Studio - App Development and XCode - IoS App Development**
-- 💬 Ask me about **express, Android App Development and Machine Learning Models**
+- 🌱 I'm currently learning **NLP and AI**
+- 💬 Ask me about **Artifical Neural Networks and Machine Learning Models**
 -  ⚡ fun Fact **I prefer Chai (Tea) over Coffee**
 
 ## 🌍 Connect with me 
